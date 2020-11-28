@@ -31,3 +31,19 @@ The calculation for LIPM is implemented with Python 3.6, given different target 
 2.3 Giving a negetive target orbital energy.
 
 ![LIPM_double_legs_backward](pic/LIPM_double_legs_backward.gif)
+
+---
+
+## 文章教程
+
+代码对应的文章教程有两种访问方式，详见：
+
+1. 知乎专栏：https://www.zhihu.com/column/c_1212783320150577152
+
+2. 微信公众号：博士的沙漏。
+
+    ![gzh](pic/gzh.jpg)
+
+    
+
+获取《仿人机器人》中文版书籍，可关注公众号后，在后台回复【HR】获取下载链接。
