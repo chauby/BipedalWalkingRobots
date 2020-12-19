@@ -4,7 +4,7 @@ from math import sinh
 from math import cosh
 import numpy as np
 
-
+# Deinition of Linear Inverted Pendulum
 class LIPM:
     def __init__(self, x0 = 0, v0 = 0, z0 = 1, delta_t = 0.001):
         self.x0 = x0
