@@ -8,7 +8,7 @@ Required enverionments:
 - CoppeliaSim 4.0 +
 
 ---
-## 1. Basic computation of LIPM
+## 1. Basic computation of 2D LIPM
 
 This project is about the models and algorithms for bipedal walking control, including the Linear Inverted Pendunum Model (LIPM) and humandoid robots. The LIPM is shown as follows:
 
@@ -46,7 +46,7 @@ The calculation for LIPM is implemented with Python 3.6, given different target 
 
 ### 2.1  Plot with python
 
-run with the script in 'LIPM/LIPM_ik_test.py', you can get the following result:
+Run the script in 'LIPM/LIPM_ik_test.py', you can get the following result:
 
 <img src="pic/LIPM_ik.gif" alt="LIPM_ik" style="zoom:50%;" />
 
@@ -59,6 +59,22 @@ Open 'scenes/demo_1_LIPM_kinematics.ttt' with CoppliaSim 4.0+ and run the projec
 <img src="pic/LIPM_ik_vrep.gif" alt="LIPM_ik_vrep" style="zoom: 67%;" />
 
 
+
+## 3. 3D LIPM model
+
+Run the script in 'LIPM/demo_LIPM_3D.py', and specify different parameters, you can get different simulation results.
+
+Walk forward:
+
+<img src="pic/LIPM_3D_forward.gif" alt="LIPM_3D_forward" style="zoom: 67%;" />
+
+Turn left:
+
+<img src="pic/LIPM_3D_turn_left.gif" alt="LIPM_3D_turn_left" style="zoom: 67%;" />
+
+Turn right:
+
+<img src="pic/LIPM_3D_turn_right.gif" alt="LIPM_3D_turn_right" style="zoom: 67%;" />
 
 
 
