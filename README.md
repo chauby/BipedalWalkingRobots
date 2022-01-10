@@ -76,6 +76,18 @@ Turn right:
 
 <img src="pic/LIPM_3D_turn_right.gif" alt="LIPM_3D_turn_right" style="zoom: 67%;" />
 
+---
+
+## 4.ZMP preview control
+
+The code is opensource at: https://github.com/chauby/ZMP_preview_control
+
+Tutorial: https://zhuanlan.zhihu.com/p/452704228?
+
+The ZMP and COM trajectory generation with the given ZMP stepping positions:
+
+<img src="pic/ZMP_preview_control.png" alt="ZMP preview control" style="zoom: 80%;" />
+
 
 
 ---
