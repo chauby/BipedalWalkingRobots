@@ -1,0 +1,3 @@
+[submodule "ZMP_preview_control"]
+	path = ZMP_preview_control
+	url = https://github.com/chauby/ZMP_preview_control
