@@ -101,6 +101,7 @@ The ZMP and COM trajectory generation with the given ZMP stepping positions:
 2. 微信公众号：沙漏AI机器人。
 
 
+![image](https://github.com/chauby/V-REP-YouBot-Demo/blob/master/qrcode.png)
     
 
 获取《仿人机器人》中文版书籍，可关注公众号后，在后台回复【HR】获取下载链接。
