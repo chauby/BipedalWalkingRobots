@@ -98,9 +98,8 @@ The ZMP and COM trajectory generation with the given ZMP stepping positions:
 
 1. 知乎专栏：https://www.zhihu.com/column/c_1212783320150577152
 
-2. 微信公众号：博士的沙漏。
+2. 微信公众号：沙漏AI机器人。
 
-    ![gzh](pic/gzh.jpg)
 
     
 
